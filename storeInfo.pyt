@@ -1,0 +1,11 @@
+name = input("Enter the name: ")
+age = int(input("Enter your age: "))
+address = input("Enter your address: ")
+occupation = input("Enter your current job: ")
+
+print("------PERSON'S INFO------")
+print(f"NAME: {name}\n")
+print(f"AGE: {age}\n")
+print(f"ADDRESS: {address}\n")
+print(f"OCCUPATION: {occupation}\n")
+print("-------------------------")
